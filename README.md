@@ -4,9 +4,9 @@
 
 ### Installation
 
-1. Copy the `theme-10bag` file to VS Code extensions directory
+Copy the `theme-10bag` file to VS Code extensions directory
 - Windows: `%USERPROFILE%\.vscode\extensions`
 - Mac: `$HOME/.vscode/extensions`
 - Linux: `$HOME/.vscode/extensions`
 
-2. From the VS Code, go File -> Preferences -> Color Theme and select "Neka"
+Run VS Code then go File -> Preferences -> Color Theme and select "Neka"
