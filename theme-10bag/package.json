@@ -1,0 +1,22 @@
+{
+	"name": "theme-neka",
+	"displayName": "Neka",
+	"description": "Neka theme",
+	"version": "0.0.1",
+	"publisher": "Neka",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Neka",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Neka.tmTheme"
+			}
+		]
+	}
+}
