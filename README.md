@@ -4,7 +4,7 @@
 
 ### Installation
 
-Copy the `theme-10bag` file to VS Code extensions directory
+Copy the `theme-10bag` folder to VS Code extensions directory
 - Windows: `%USERPROFILE%\.vscode\extensions`
 - Mac: `$HOME/.vscode/extensions`
 - Linux: `$HOME/.vscode/extensions`
